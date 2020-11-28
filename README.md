@@ -3,12 +3,12 @@
 # Tic-Tac-Toe Research V1.?
 ReadMe File by Edit Mr. & PX123
 
-##Statement
+## Statement
 
 This project is released by Creative Commons 4.0.<br />
 If you want to use any file in this project, such as code, video, or document, please indicate the source (For Example:"Code from Edit Mr. & PX123), and contact us if you want.
 
-##Project information
+## Project Information
 *Title: Tic-Tac-Toe Research V1.??
 *Release at 2020.8.87 for ???
 Input:
@@ -24,7 +24,7 @@ To open the .sb3 file, you need to downlode [Scratch Destop](https://scratch.mit
 
 Press the bottom "Load from your computer", and choose the .sb3 file that you have downlode.
 
-###How Does it Work?
+### How Does it Work?
 
 *Inport the outcome of V1.? (The file is above)
 *Press the green flag
