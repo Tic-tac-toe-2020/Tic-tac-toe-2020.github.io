@@ -11,13 +11,14 @@ If you want to use any file in this project, such as code, video, or document, p
 ## Project Information
 We started this project because we want to calculate the probability of winning the Tic-Tac-Toe game, to verificate the rumor of this game.<br />
 Each release contains a zip file with
-*  .sb3 file 
-*  .txt file for inport
-*  .txt file that 
-
-Each release are made for differen't uses. So V1.6 can't replace V1.4
+*  project file(.sb3)
+*  needed inport file(.txt)
+*  outcome file(.txt)
+*  project script(.json)
+<br /><br />
+PS: Each release are made for differen't uses. So V1.6 can't replace V1.4
 ## Getting Started
-
+Downlode the zip file at [Our Site](https://tic-tac-toe-2020.github.io/)
 ### Prerequisites of .SB3
 
 To open the .sb3 file, you need to downlode [Scratch Destop](https://scratch.mit.edu/download) or use the [web version](https://scratch.mit.edu/). All of the other code can be open by Chrome.
