@@ -18,14 +18,14 @@ Each release contains a zip file with
 <br /><br />
 PS: Each release are made for differen't uses. So V1.6 can't replace V1.4
 ## Getting Started
-Downlode the zip file at [Our Site](https://tic-tac-toe-2020.github.io/)
+You can downlode the zip file at [Our Site](https://tic-tac-toe-2020.github.io/)
 ### Prerequisites of .SB3
 
 To open the .sb3 file, you need to downlode [Scratch Destop](https://scratch.mit.edu/download) or use the [web version](https://scratch.mit.edu/). All of the other code can be open by Chrome.
 
 ### Loading Project
 
-Press the bottom "Load from your computer", and choose the .sb3 file that you have downlode.
+After open the app, press the bottom "Load from your computer", and choose the .sb3 file that you have downlode.
 
 ### How Does it Work?
 *   Inport the outcome of V1.? (The file is above)
@@ -34,6 +34,6 @@ Press the bottom "Load from your computer", and choose the .sb3 file that you ha
 *   Here's the solution!(You can export the list if you want. It should be a .txt file)
 
 ## Authors
-You're Welcome to contact us if you have any ideas or any problems.
+You're Welcome to contact us if you have any ideas or any problems. And you're welcome to take a look at [Our Site](https://tic-tac-toe-2020.github.io/)!!
 *  Edit Mr. - [GitHub](https://github.com/Edit-Mr) - [site](https://edmbase.wixsite.com/base) - <a href="mailto:elvismao@ctemplar.com">email</a>
 *  PX123 - [GitHub](https://github.com/Y-C-Chen)
