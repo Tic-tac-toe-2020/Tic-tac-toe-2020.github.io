@@ -1,13 +1,13 @@
 
 
-# Tic-Tac-Toe Research V1.?
+# Tic-Tac-Toe Research
 ReadMe File by Edit Mr. & PX123
 
 ## Statement
 
 This project is released by Creative Commons 4.0.<br />
 If you want to use any file in this project, such as code, video, or document, please indicate the source (For Example:"Code from Edit Mr. & PX123), and contact us if you want.
-
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 ## Project Information
 *  Title: Tic-Tac-Toe Research V1.??
 *  Release at 2020.8.87 for ???
