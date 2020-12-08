@@ -5,15 +5,17 @@ ReadMe File by Edit Mr. & PX123
 
 ## Statement
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 This project is released by Creative Commons 4.0.<br />
 If you want to use any file in this project, such as code, video, or document, please indicate the source (For Example:"Code from Edit Mr. & PX123), and contact us if you want.
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 ## Project Information
-*  Title: Tic-Tac-Toe Research V1.??
-*  Release at 2020.8.87 for ???
-Input:
-Output:
+We started this project because we want to calculate the probability of winning the Tic-Tac-Toe game, to verificate the rumor of this game.<br />
+Each release contains a zip file with
+*  .sb3 file 
+*  .txt file for inport
+*  .txt file that 
 
+Each release are made for differen't uses. So V1.6 can't replace V1.4
 ## Getting Started
 
 ### Prerequisites of .SB3
